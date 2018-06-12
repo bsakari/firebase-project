@@ -1,4 +1,4 @@
 # firebase-project
 
-Android App To Save and Fetch from a Firebase Database. \n
+Android App To Save and Fetch from a Firebase Database. 
 Easy to Use.
